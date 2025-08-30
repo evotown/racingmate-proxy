@@ -1,0 +1,40 @@
+{
+  "meetings": [
+    {
+      "date": "2025-08-30",
+      "region": "AU",
+      "track": "Caulfield",
+      "races": [
+        {
+          "raceId": "cau-r5-20250830",
+          "marketId": "1.23456789",
+          "raceNumber": 5,
+          "name": "BM84 Handicap",
+          "distance_m": 1400,
+          "trackCondition": "Soft 6",
+          "startTimeLocal": "2025-08-30T14:50:00+10:00",
+          "runners": [
+            {
+              "runnerId": "101",
+              "name": "Rain Shadow",
+              "barrier": 4,
+              "weight_kg": 56.0,
+              "jockey": "J Kah",
+              "trainer": "M Price",
+              "lastStarts": "x4214"
+            },
+            {
+              "runnerId": "102",
+              "name": "Golden Lane",
+              "barrier": 5,
+              "weight_kg": 57.5,
+              "jockey": "D Lane",
+              "trainer": "C Maher",
+              "lastStarts": "221x3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
